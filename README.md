@@ -1,9 +1,11 @@
-### Hi there 👋
-<div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-</div>
+
+
+<img src="https://user-images.githubusercontent.com/61713118/179591774-4b74f7e3-d7de-4f13-94e3-03dac3b1f14a.png" width="200" height="200">
+I am Albert, an always inspired web developer.
+<hr>
+# :man_technologist: About me:
+
+
 <!--
 **ALbert2504/ALbert2504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,9 +1,17 @@
+<img src="https://user-images.githubusercontent.com/61713118/179591774-4b74f7e3-d7de-4f13-94e3-03dac3b1f14a.png" width="200" height="200" />
 
-
-<img src="https://user-images.githubusercontent.com/61713118/179591774-4b74f7e3-d7de-4f13-94e3-03dac3b1f14a.png" width="200" height="200">
 I am Albert, an always inspired web developer.
-<hr>
-# :man_technologist: About me:
+---
+### :man_technologist: About me:
+I am a front-end web developer from Armenia 🇦🇲
+
+- :telescope: I’m working as a Software Developer and contributing to frontend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/albert-arakelyan/)
 
 
 <!--

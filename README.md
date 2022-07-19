@@ -9,7 +9,7 @@ I am a front-end web developer from Armenia 🇦🇲
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I develop demo projects with different technologies and read tech articles.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/albert-arakelyan/)
 

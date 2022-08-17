@@ -1,13 +1,14 @@
 <img src="https://user-images.githubusercontent.com/61713118/179591774-4b74f7e3-d7de-4f13-94e3-03dac3b1f14a.png" width="200" height="200" />
 
-I am Albert, an always inspired web developer.
+I am Albert, an always inspired web developer with a track record of using JavaScript and its frameworks to help businesses build and manage stronger code bases.
 ---
 ### :man_technologist: About me:
 I am a front-end web developer from Armenia 🇦🇲
 
 - :telescope: I’m working as a Software Developer and contributing to frontend for building web applications.
 
-- :seedling: I am also coaching junior developers who are just starting in their careers. As the leader of the front-end development team.
+- :seedling: I am also coaching junior developers who are just starting in their careers.
+As the leader of the front-end development team.
 
 - :zap: In my free time, I develop demo projects with different technologies and read tech articles.
 
@@ -52,6 +53,11 @@ I am a front-end web developer from Armenia 🇦🇲
     <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg" title="Filezilla" alt="Filezilla" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
+</div>
+
+### :bulb: Keen on :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 </div>
 
 

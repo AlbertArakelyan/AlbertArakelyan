@@ -6,12 +6,10 @@ I am Albert, an always inspired web developer with a track record of using JavaS
 I am a front-end web developer from Armenia 🇦🇲
 
 - :telescope: I’m working as a Software Developer and contributing to frontend for building web applications.
-
 - :seedling: I am also coaching junior developers who are just starting in their careers.
 As the leader of the front-end development team.
-
 - :zap: In my free time, I develop demo projects with different technologies and read tech articles.
-
+- :arrow_forward: Founder and content creator at [IT Motion](https://www.youtube.com/channel/UCFL-9mlMhhnJ-thUv0JKUtQ) youtube channel
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/albert-arakelyan/)
 
 --- 
@@ -59,7 +57,6 @@ As the leader of the front-end development team.
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 </div>
-
 
 <!--
 **ALbert2504/ALbert2504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -5,7 +5,7 @@ I am Albert, an always inspired web developer with a track record of using JavaS
 ### :man_technologist: About me:
 I am a front-end web developer from Armenia 🇦🇲
 
-- :telescope: I’m working as a Software Developer and contributing to frontend for building web applications.
+- :telescope: I’m working as a Software Developer and contributing to front-end for building web applications.
 - :seedling: I am also coaching junior developers who are just starting in their careers.
 As the leader of the front-end development team.
 - :zap: In my free time, I develop demo projects with different technologies and read tech articles.

@@ -56,7 +56,7 @@ As the leader of the front-end development team.
 ### :bulb: Keen on :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://media.slid.es/uploads/118447/images/2991881/reactpurple.png" title="React Native" alt="Mobile Development" width="40" height="40"/>&nbsp;
+  <img src="https://media.tproger.ru/uploads/2022/04/8726265_react_icon-cover-icon-original.png" title="React Native" alt="Mobile Development" width="40" height="40"/>&nbsp;
 </div>
 
 <!--

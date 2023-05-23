@@ -41,7 +41,6 @@ As the leader of the front-end development team.
     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg" title="Less" alt="Less" width="40" height="40"/>&nbsp;
   </div>
-  
 </div>
 
 ### 🛠️ Tools :
@@ -62,6 +61,10 @@ As the leader of the front-end development team.
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
 </div>
+
+---
+### Github stats
+![Arthur Sahakyan's github stats](https://github-readme-stats.vercel.app/api?username=AlbertArakelyan&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
 
 <!--
 **ALbert2504/ALbert2504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

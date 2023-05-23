@@ -63,7 +63,7 @@ As the leader of the front-end development team.
 </div>
 
 ---
-### Github stats
+### 📊 Github stats:
 ![Arthur Sahakyan's github stats](https://github-readme-stats.vercel.app/api?username=AlbertArakelyan&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
 
 <!--

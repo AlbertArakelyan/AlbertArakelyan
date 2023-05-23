@@ -1,13 +1,13 @@
 <img src="https://user-images.githubusercontent.com/61713118/179591774-4b74f7e3-d7de-4f13-94e3-03dac3b1f14a.png" width="200" height="200" />
 
-I am Albert, an always inspired web developer with a track record of using JavaScript and its frameworks to help businesses build and manage stronger code bases.
+I am Albert, an always inspired and experienced Frontend developer with a track record of using JavaScript and its frameworks to help businesses build and manage stronger code bases.
 ---
 ### :man_technologist: About me:
-I am a front-end web developer from Armenia 🇦🇲
+I am a Frontend Developer from Armenia 🇦🇲
 
-- :telescope: I’m working as a Software Developer and contributing to front-end for building web applications.
+- :telescope: I’m working as a Frontend Developer for 3 years.
 - :seedling: I am also coaching junior developers who are just starting in their careers.
-As the leader of the front-end development team.
+As the leader of the Frontend Development team.
 - :zap: In my free time, I develop demo projects with different technologies and read tech articles.
 <!-- - :arrow_forward: Founder and content creator at [IT Motion](https://www.youtube.com/channel/UCFL-9mlMhhnJ-thUv0JKUtQ) youtube channel -->
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/albert-arakelyan/)

@@ -5,7 +5,7 @@ I am Albert, an always inspired and experienced Frontend developer with a track 
 ### :man_technologist: About me:
 I am a Frontend Developer from Armenia 🇦🇲
 
-- :telescope: I’m working as a Frontend Developer for 3 years.
+- :telescope: I’m working as a Frontend Developer contributing web and sometimes mobile.
 - :seedling: I am also coaching junior developers who are just starting in their careers.
 As the leader of the Frontend Development team.
 - :zap: In my free time, I develop demo projects with different technologies and read tech articles.

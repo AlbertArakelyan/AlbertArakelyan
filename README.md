@@ -64,7 +64,7 @@ As the leader of the Frontend Development team.
 
 ---
 ### 📊 Github stats:
-![Arthur Sahakyan's github stats](https://github-readme-stats.vercel.app/api?username=AlbertArakelyan&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
+![Albert Arakelyan's github stats](https://github-readme-stats.vercel.app/api?username=AlbertArakelyan&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
 
 <!--
 **ALbert2504/ALbert2504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

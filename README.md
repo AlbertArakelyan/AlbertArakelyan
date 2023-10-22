@@ -9,7 +9,7 @@ I am a Frontend Developer from Armenia 🇦🇲
 - :telescope: I’m working as a Frontend Developer, contributing web and sometimes mobile.
 - :seedling: I am also coaching junior developers who are just starting in their careers.
 As the leader of the Frontend Development team.
-- :zap: In my free time, I develop read tech articles and I adore developing pet projects with different technologies
+- :zap: In my free time, I read tech articles and I adore developing pet projects with different technologies
 <!-- - :arrow_forward: Founder and content creator at [IT Motion](https://www.youtube.com/channel/UCFL-9mlMhhnJ-thUv0JKUtQ) youtube channel -->
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/albert-arakelyan/)
 

@@ -70,7 +70,7 @@ As the leader of the Frontend Development team.
   </div>
 </div>
 
-### :bulb: Keen on :
+### 💡 Keen on :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;

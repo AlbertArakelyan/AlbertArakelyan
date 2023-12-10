@@ -3,7 +3,7 @@
 ### I am Albert, an always inspired and experienced Frontend developer with a track record of using JavaScript and its frameworks to help businesses build and manage stronger code bases.
 
 ---
-### :man_technologist: About me:
+### 👨‍💻 About me:
 I am a Frontend Developer from Armenia 🇦🇲
 
 - :telescope: I’m working as a Frontend Developer, contributing web and sometimes mobile.
@@ -14,7 +14,7 @@ As the leader of the Frontend Development team.
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/albert-arakelyan/)
 
 --- 
-### :computer: Languages, Frameworks and Libraries :
+### 💻 Languages, Frameworks and Libraries :
 
 <div>
   <div>

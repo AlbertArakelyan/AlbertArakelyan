@@ -86,7 +86,7 @@ As the leader of the Frontend Development team.
 
 ---
 ### ![logo-small](https://github.com/AlbertArakelyan/AlbertArakelyan/assets/61713118/3228e049-5b20-4d33-a9b7-682aea76dce8) My Website
-[https://albertarakelyan.vercel.app/](https://albertarakelyan.vercel.app/)
+[https://www.albertarakelyan.com/](https://www.albertarakelyan.com/)
 
 <!--
 **ALbert2504/ALbert2504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

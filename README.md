@@ -49,6 +49,7 @@ As the leader of the Frontend Development team.
       <img src="https://cdn.worldvectorlogo.com/logos/apollo-graphql-compact.svg" title="Apollo Client" alt="Apollo Client" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
       <img src="https://testing-library.com/img/octopus-128x128.png" title="React Testing Library" alt="React Testing Library" width="40" height="40"/>&nbsp;
+      <img src="https://vitest.dev/logo-shadow.svg" title="Vitest" alt="Vitest" width="40" height="40"/>&nbsp;
   </div>
 </div>
 

@@ -87,8 +87,8 @@ As the leader of the Frontend Development team.
 ### 📊 Github stats:
 ![Albert Arakelyan's github stats](https://github-readme-stats.vercel.app/api?username=AlbertArakelyan&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues)
 
-<!-- [![GitHub Streak](https://github-readme-streak-stats-beta-bay.vercel.app?user=AlbertArakelyan&theme=dark)](https://git.io/streak-stats) -->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlbertArakelyan&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-beta-bay.vercel.app?user=AlbertArakelyan&theme=dark)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlbertArakelyan&theme=dark)](https://git.io/streak-stats) -->
 
 ---
 ### ![logo-small](https://github.com/AlbertArakelyan/AlbertArakelyan/assets/61713118/3228e049-5b20-4d33-a9b7-682aea76dce8) My Website

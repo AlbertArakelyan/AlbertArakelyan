@@ -4,8 +4,6 @@
 
 ---
 ### 👨‍💻 About me:
-I am a Frontend Developer from Armenia 🇦🇲
-
 - :telescope: I’m working as a Frontend Developer, contributing web and sometimes mobile.
 - :seedling: I am also coaching junior developers who are just starting in their careers.
 As the leader of the Frontend Development team.

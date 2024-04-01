@@ -42,6 +42,7 @@ As the leader of the Frontend Development team.
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg" title="Less" alt="Less" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" title="Framer Motion" alt="Framer Motion" width="40" height="40"/>&nbsp;
   </div>
   <div>
       <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" title="Socket.io" alt="Socket.io" width="40" height="40"/>&nbsp;

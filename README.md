@@ -1,6 +1,8 @@
+<!--
 <img src="https://user-images.githubusercontent.com/61713118/179591774-4b74f7e3-d7de-4f13-94e3-03dac3b1f14a.png" width="200" height="200" />
+-->
 
-### I am Albert, an always inspired and experienced Frontend developer with a track record of using JavaScript and its frameworks to help businesses build and manage stronger code bases.
+### Hi, I am Albert, an always inspired and experienced Frontend developer with a track record of using JavaScript and its frameworks to help businesses build and manage stronger code bases.
 
 ---
 ### 👨‍💻 About me:

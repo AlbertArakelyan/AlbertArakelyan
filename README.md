@@ -37,6 +37,15 @@ As the leader of the Frontend Development team.
       <img src="https://emojis.slackmojis.com/emojis/images/1653495163/59365/pinia.png?1653495163" title="Pinia" alt="Pinia" width="40"         height="40"/>&nbsp;
   </div>
   <div>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" title="Socket.io" alt="Socket.io" width="40" height="40"/>&nbsp;
+      <img src="https://cdn.worldvectorlogo.com/logos/apollo-graphql-compact.svg" title="Apollo Client" alt="Apollo Client" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
+      <img src="https://testing-library.com/img/octopus-128x128.png" title="React Testing Library" alt="React Testing Library" width="40" height="40"/>&nbsp;
+      <img src="https://vitest.dev/logo-shadow.svg" title="Vitest" alt="Vitest" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="Vite" alt="Vite" width="40" height="40"/>&nbsp;
+  </div>
+  <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/antdesign/antdesign-original.svg" title="Ant design" alt="Ant design" width="40" height="40"/>&nbsp;
     <img src="https://iconape.com/wp-content/png_logo_vector/vuetify-logo.png" title="Vuetify" alt="Vuetify" width="40" height="40"/>&nbsp;
@@ -45,15 +54,6 @@ As the leader of the Frontend Development team.
     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg" title="Less" alt="Less" width="40" height="40"/>&nbsp;
     <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" title="Framer Motion" alt="Framer Motion" width="40" height="40"/>&nbsp;
-  </div>
-  <div>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" title="Socket.io" alt="Socket.io" width="40" height="40"/>&nbsp;
-      <img src="https://cdn.worldvectorlogo.com/logos/apollo-graphql-compact.svg" title="Apollo Client" alt="Apollo Client" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
-      <img src="https://testing-library.com/img/octopus-128x128.png" title="React Testing Library" alt="React Testing Library" width="40" height="40"/>&nbsp;
-      <img src="https://vitest.dev/logo-shadow.svg" title="Vitest" alt="Vitest" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="Vite" alt="Vite" width="40" height="40"/>&nbsp;
   </div>
 </div>
 

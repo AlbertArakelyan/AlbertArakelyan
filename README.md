@@ -88,7 +88,6 @@ As the leader of the Frontend Development team.
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/gist/fromaline/f6a7b114028d7f358c035ac2a15b203c/raw/91fa3a16ee603df91507e0b6c3d1b84bc9d6ff24/html5_canvas_logo_dark.svg" title="Canvas" alt="Canvas" width="40" height="40"/>&nbsp;
 </div>
 
 ---

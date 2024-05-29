@@ -87,6 +87,7 @@ As the leader of the Frontend Development team.
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>&nbsp;
+  <img src="https://i0.wp.com/compile.blog/wp-content/uploads/2021/11/web3-icon.png?ssl=1" title="Web 3.0" alt="Web 3.0" width="40" height="40"/>&nbsp;
 </div>
 
 ---

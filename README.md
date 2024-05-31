@@ -91,6 +91,8 @@ As the leader of the Frontend Development team.
   <img src="https://docs.soliditylang.org/en/latest/_images/solidity_logo.svg" title="Solidity" alt="Solidity" width="40" height="40" />
   <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" title="Ethereum" alt="Ethereum" width="40" height="40" />
   <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" title="Hardhat" alt="Hardhat" width="40" height="40" />
+  <img src="https://docs.ethers.org/v5/static/logo.svg" title="Ethers.js" alt="Ethers.js" width="40" height="40" />
+  
 </div>
 
 ---

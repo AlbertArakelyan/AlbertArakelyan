@@ -58,6 +58,7 @@ As the leader of the Frontend Development team.
     <img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" title="REST API" alt="REST API" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
     <img src="https://openwhisk.apache.org/images/deployments/logo-docker-compose-notext.png" title="Docker Compose" alt="Docker Compose" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>&nbsp;
   </div>
 </div>
 
@@ -83,7 +84,6 @@ As the leader of the Frontend Development team.
 ### 💡 Keen on :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>&nbsp;
 <!--   <img src="https://i0.wp.com/compile.blog/wp-content/uploads/2021/11/web3-icon.png?ssl=1" title="Web 3.0" alt="Web 3.0" width="40" height="40"/>&nbsp; -->
   <img src="https://docs.soliditylang.org/en/latest/_images/solidity_logo.svg" title="Solidity" alt="Solidity" width="40" height="40" />
   <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" title="Ethereum" alt="Ethereum" width="40" height="40" />

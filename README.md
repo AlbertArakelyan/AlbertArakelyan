@@ -92,7 +92,7 @@ As the leader of the Frontend Development team.
   <img src="https://docs.soliditylang.org/en/latest/_images/solidity_logo.svg" title="Solidity" alt="Solidity" width="40" height="40" />
   <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" title="Ethereum" alt="Ethereum" width="40" height="40" />
   <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" title="Hardhat" alt="Hardhat" width="40" height="40" />
-  <img src="https://private-user-images.githubusercontent.com/61713118/335457667-ccc88488-702a-452b-b338-9975783f37b5.svg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTcxMzQ3MTAsIm5iZiI6MTcxNzEzNDQxMCwicGF0aCI6Ii82MTcxMzExOC8zMzU0NTc2NjctY2NjODg0ODgtNzAyYS00NTJiLWIzMzgtOTk3NTc4M2YzN2I1LnN2Zz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MzElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTMxVDA1NDY1MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWMzYmY0YmVjY2E3ODY0ZjNlZDA5NWFmNTRhNWQ1YTlhYjQwNThlMmE0ODNmM2FmNmQ4ZTk2ODk3Yzg5NGNkYmYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.W2Y3QKLepViHcKL8zQKlKRLkUj3AB1QA4Frh3thzm00" title="Ethers.js" alt="Ethers.js" width="40" height="40" />
+  <img src="https://seeklogo.com/images/E/ethers-logo-D5B86204D8-seeklogo.com.png" title="Ethers.js" alt="Ethers.js" width="40" height="40" />
   
 </div>
 

@@ -1,7 +1,3 @@
-<!--
-<img src="https://user-images.githubusercontent.com/61713118/179591774-4b74f7e3-d7de-4f13-94e3-03dac3b1f14a.png" width="200" height="200" />
--->
-
 ### Hi, I am Albert, an always inspired and experienced Frontend developer with a track record of using JavaScript and its frameworks to help businesses build and manage stronger code bases.
 
 ---
@@ -92,9 +88,10 @@ As the leader of the Frontend Development team.
   <img src="https://docs.soliditylang.org/en/latest/_images/solidity_logo.svg" title="Solidity" alt="Solidity" width="40" height="40" />
   <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" title="Ethereum" alt="Ethereum" width="40" height="40" />
   <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" title="Hardhat" alt="Hardhat" width="40" height="40" />
-  <img src="https://seeklogo.com/images/E/ethers-logo-D5B86204D8-seeklogo.com.png" title="Ethers.js" alt="Ethers.js" width="40" height="40" />
+  <img src="https://github.com/AlbertArakelyan/AlbertArakelyan/assets/61713118/abc34d7a-a916-4921-b051-257ece8ca755" title="Ethers.js" alt="Ethers.js" width="40" height="40" />
   
 </div>
+
 
 ---
 ### 📊 Github stats:

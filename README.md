@@ -6,7 +6,7 @@
 - :seedling: I am also coaching junior developers who are just starting in their careers.
 As the leader of the Frontend Development team.
 - :zap: In my free time, I read tech articles and I adore developing pet projects with different technologies.
-- 📫 How to reach me: <br>
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:albertarakelyan1998@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albert-arakelyan/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/AlbertArak25)

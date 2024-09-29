@@ -110,7 +110,7 @@ As the leader of the Frontend Development team.
   <span style="vertical-align: center">My Portfolio Website:</span>
 </h4>
 
-[https://www.albertarakelyan.com/](https://www.albertarakelyan.com/)
+[https://www.albertarakelyan.com/](https://www.albertarakelyan.com)
 
 <!--
 **ALbert2504/ALbert2504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

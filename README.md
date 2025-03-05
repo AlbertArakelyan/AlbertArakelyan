@@ -2,7 +2,7 @@
 
 ---
 ### 👨‍💻 About me:
-- :telescope: I’m working as a Frontend Developer, contributing web more than 4 years.
+- :telescope: I’m working as a Frontend Developer, contributing web more than 5 years.
 - :seedling: I am also coaching junior developers who are just starting in their careers.
 As the leader of the Frontend Development team.
 - :zap: In my free time, I read tech articles and I adore developing pet projects with different technologies.

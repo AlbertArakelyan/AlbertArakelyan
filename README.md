@@ -1,3 +1,5 @@
+[![Nodex Labs](./assets/images/nodex-labs-banner.png)](https://github.com/nodex-labs)
+
 ### Hi, I am Albert, an always inspired and experienced Frontend developer with a track record of using JavaScript and its frameworks to help businesses build and manage stronger code bases.
 
 ---

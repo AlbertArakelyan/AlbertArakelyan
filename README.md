@@ -1,7 +1,8 @@
 [![Nodex Labs](./assets/images/nodex-labs-banner.png)](https://github.com/nodex-labs)
 
 ### Hi, I am Albert, an always inspired and experienced Frontend developer with a track record of using JavaScript and its frameworks to help businesses build and manage stronger code bases.
-I have built lots of examples and projects with best practices, which you can use for building your own projects. And I keep building 🙂.
+I have built lots of examples and projects with best practices, which you can use for building your own projects. <br>
+And I keep building 🙂.
 
 ---
 ### 👨‍💻 About me:

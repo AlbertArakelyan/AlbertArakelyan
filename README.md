@@ -28,6 +28,17 @@ And I keep building including open source projects and packages which you can us
   Making my repos accessible for beginners and encouraging new contributors.
 -->
 
+## 📚 Open Source Books & Resources
+
+I maintain a [Books page](https://www.albertarakelyan.com/resources/books) on my website, featuring free PDF content and guides for developers.  
+This collection is a customized expansion of my [AA-Markdown-Library](https://github.com/AlbertArakelyan/AA-Markdown-Library), offering additional curated materials.
+
+- Practical guides & cheat sheets
+- Exclusive PDF resources
+- Helpful for both beginners and advanced devs
+
+*Check it out and let me know what new resources you’d like to see!*
+
 ---
 ### 👨‍💻 About me:
 - 💼 Frontend Developer & Team Lead (5+ years)

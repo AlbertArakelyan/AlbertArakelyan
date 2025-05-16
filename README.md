@@ -1,21 +1,39 @@
 [![Nodex Labs](./assets/images/nodex-labs-banner.png)](https://github.com/nodex-labs)
 
-### Hi, I am Albert, an always inspired and experienced Frontend developer with a track record of using JavaScript and its frameworks to help businesses build and manage stronger code bases.
-I have built lots of examples and projects with best practices, which you can use for building your own projects. <br>
-And I keep building 🙂.
+### 👋 Hi, I’m Albert Arakelyan — Passionate Frontend Developer, Mentor, and Open Source Advocate
 
-## Mentorship & Community Impact
+I’m driven by a love for technology, sharing knowledge, and empowering the next generation of developers.  
+With 5+ years of professional experience, I specialize in building web applications using JavaScript and its frameworks, always focusing on best practices, accessibility, and developer experience.
 
-Beyond my open source work, I have mentored three generations of interns, many of whom are now thriving at leading tech companies. I am passionate about supporting newcomers and helping them launch their careers in software development. While much of this mentorship happened outside of GitHub, it reflects my ongoing commitment to building a strong, supportive developer community.
+I have also built lots of examples and projects with best practices, which you can use for building your own projects.
+And I keep building including open source projects and packages which you can use for yourself or in your projects 🙂.
 
-I strive to bring this same spirit to all my open source projects—welcoming contributors, providing clear guidance, and empowering others to grow and succeed.
+---
+
+## 🌱 Mentorship & Community Impact
+
+- **Mentored 3 generations of interns** — many now thriving at leading tech companies worldwide.
+- I actively support newcomers, both in the workplace and through open source, helping them launch their careers and find their confidence.
+- I strive to bring this same spirit to all my projects—welcoming contributors, providing clear guidance, and empowering others to grow and succeed.
+
+## 🚀 Open Source Highlights
+
+- **Creator of [AA-Markdown-Library](https://github.com/AlbertArakelyan/AA-Markdown-Library):**  
+  A curated, practical resource hub for Markdown guides and developer cheatsheets.
+- **Contributor to various projects:**  
+    - Sharing best practices, code examples, and helping maintain healthy, collaborative repositories.
+    - Creating packages for everyone which solved the problems I faced with at my work.
+<!--
+- **Champion for “good first issue” and “help wanted” labels:**  
+  Making my repos accessible for beginners and encouraging new contributors.
+-->
 
 ---
 ### 👨‍💻 About me:
-- :telescope: I’m working as a Frontend Developer, contributing web more than 5 years.
-- :seedling: I am also coaching junior developers who are just starting in their careers.
-As the leader of the Frontend Development team.
-- :zap: In my free time, I read tech articles and I adore developing pet projects with different technologies.
+- 💼 Frontend Developer & Team Lead (5+ years)
+- 🌱 Coach and mentor for junior devs & interns
+- 📚 Forever learning: I read tech articles & build pet projects for fun
+- 🗺️ Building resources for global devs — check [my portfolio](https://www.albertarakelyan.com)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:albertarakelyan1998@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albert-arakelyan/)
@@ -120,3 +138,7 @@ As the leader of the Frontend Development team.
 </h4>
 
 [https://www.albertarakelyan.com](https://www.albertarakelyan.com)
+
+---
+
+<sub>“I believe in building a welcoming and supportive ecosystem for every developer. Whether you’re just starting or a seasoned pro, let’s grow together!”</sub>

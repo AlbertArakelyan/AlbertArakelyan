@@ -4,6 +4,12 @@
 I have built lots of examples and projects with best practices, which you can use for building your own projects. <br>
 And I keep building 🙂.
 
+## Mentorship & Community Impact
+
+Beyond my open source work, I have mentored three generations of interns, many of whom are now thriving at leading tech companies. I am passionate about supporting newcomers and helping them launch their careers in software development. While much of this mentorship happened outside of GitHub, it reflects my ongoing commitment to building a strong, supportive developer community.
+
+I strive to bring this same spirit to all my open source projects—welcoming contributors, providing clear guidance, and empowering others to grow and succeed.
+
 ---
 ### 👨‍💻 About me:
 - :telescope: I’m working as a Frontend Developer, contributing web more than 5 years.

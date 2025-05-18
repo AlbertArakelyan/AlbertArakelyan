@@ -2,6 +2,12 @@
 
 ### 👋 Hi, I’m Albert Arakelyan — Passionate Frontend Developer, Mentor, and Open Source Advocate
 
+<p align="center">
+  <a href="mailto:albertarakelyan1998@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://www.linkedin.com/in/albert-arakelyan/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
+  <a href="https://x.com/AlbertArak25"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"></a>
+</p>
+
 I’m driven by a love for technology, sharing knowledge, and empowering the next generation of developers.  
 With 5+ years of professional experience, I specialize in building web applications using JavaScript and its frameworks, always focusing on best practices, accessibility, and developer experience.
 
@@ -46,9 +52,6 @@ This collection is a customized expansion of my [AA-Markdown-Library](https://gi
 - 📚 Forever learning: I read tech articles & build pet projects for fun
 - 🗺️ Building resources for global devs — check [my portfolio](https://www.albertarakelyan.com)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:albertarakelyan1998@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albert-arakelyan/)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/AlbertArak25)
 <!-- - :arrow_forward: Founder and content creator at [IT Motion](https://www.youtube.com/channel/UCFL-9mlMhhnJ-thUv0JKUtQ) youtube channel -->
 
 --- 

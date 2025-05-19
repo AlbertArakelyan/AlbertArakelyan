@@ -16,12 +16,6 @@ And I keep building including open source projects and packages which you can us
 
 ---
 
-## 🌱 Mentorship & Community Impact
-
-- **Mentored 3 generations of interns** — many now thriving at leading tech companies worldwide.
-- I actively support newcomers, both in the workplace and through open source, helping them launch their careers and find their confidence.
-- I strive to bring this same spirit to all my projects—welcoming contributors, providing clear guidance, and empowering others to grow and succeed.
-
 ## 🚀 Open Source Highlights
 
 - **Creator of [AA-Markdown-Library](https://github.com/AlbertArakelyan/AA-Markdown-Library):**  
@@ -44,6 +38,12 @@ This collection is a customized expansion of my [AA-Markdown-Library](https://gi
 - Helpful for both beginners and advanced devs
 
 *Check it out and let me know what new resources you’d like to see!*
+
+## 🌱 Mentorship & Community Impact
+
+- **Mentored 3 generations of interns** — many now thriving at leading tech companies worldwide.
+- I actively support newcomers, both in the workplace and through open source, helping them launch their careers and find their confidence.
+- I strive to bring this same spirit to all my projects—welcoming contributors, providing clear guidance, and empowering others to grow and succeed.
 
 ---
 ### 👨‍💻 About me:

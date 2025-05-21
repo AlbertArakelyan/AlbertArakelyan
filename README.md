@@ -46,6 +46,7 @@ This collection is a customized expansion of my [AA-Markdown-Library](https://gi
 - I strive to bring this same spirit to all my projects—welcoming contributors, providing clear guidance, and empowering others to grow and succeed.
 
 ---
+
 ### 👨‍💻 About me:
 - 💼 Frontend Developer & Team Lead (5+ years)
 - 🌱 Coach and mentor for junior devs & interns
@@ -54,7 +55,6 @@ This collection is a customized expansion of my [AA-Markdown-Library](https://gi
 
 <!-- - :arrow_forward: Founder and content creator at [IT Motion](https://www.youtube.com/channel/UCFL-9mlMhhnJ-thUv0JKUtQ) youtube channel -->
 
---- 
 ### 💻 Languages, Frameworks and Libraries :
 
 <div>
@@ -145,7 +145,6 @@ This collection is a customized expansion of my [AA-Markdown-Library](https://gi
   <img src="https://github.com/AlbertArakelyan/AlbertArakelyan/assets/61713118/89bf84b9-9f97-42cc-bcf9-6489675b9062" title="Alchemy" alt="Alchemy" width="40" height="40" />
 </div>
 
----
 <h3>
   <img src="https://github.com/AlbertArakelyan/AlbertArakelyan/assets/61713118/11fc9858-2942-4290-9ce3-34026816882a" alt="Albert Arakelyan">
   <span style="vertical-align: center">My Portfolio Website:</span>

@@ -1,6 +1,6 @@
 [![Nodex Labs](./assets/images/nodex-labs-banner.png)](https://github.com/nodex-labs)
 
-### 👋 Hi, I’m Albert Arakelyan — Passionate Frontend Developer, Mentor, and Open Source Advocate
+### 👋 Hi, I’m Albert Arakelyan - Passionate Frontend Developer, Mentor, and Open Source Advocate
 
 <p align="center">
   <a href="mailto:albertarakelyan1998@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
@@ -41,9 +41,9 @@ This collection is a customized expansion of my [AA-Markdown-Library](https://gi
 
 ## 🌱 Mentorship & Community Impact
 
-- **Mentored 3 generations of interns** — many now thriving at leading tech companies worldwide.
+- **Mentored 3 generations of interns** - many now thriving at leading tech companies worldwide.
 - I actively support newcomers, both in the workplace and through open source, helping them launch their careers and find their confidence.
-- I strive to bring this same spirit to all my projects—welcoming contributors, providing clear guidance, and empowering others to grow and succeed.
+- I strive to bring this same spirit to all my projects-welcoming contributors, providing clear guidance, and empowering others to grow and succeed.
 
 ---
 
@@ -51,7 +51,7 @@ This collection is a customized expansion of my [AA-Markdown-Library](https://gi
 - 💼 Frontend Developer & Team Lead (5+ years)
 - 🌱 Coach and mentor for junior devs & interns
 - 📚 Forever learning: I read tech articles & build pet projects for fun
-- 🗺️ Building resources for global devs — check [my portfolio](https://www.albertarakelyan.com)
+- 🗺️ Building resources for global devs - check [my portfolio](https://www.albertarakelyan.com)
 
 <!-- - :arrow_forward: Founder and content creator at [IT Motion](https://www.youtube.com/channel/UCFL-9mlMhhnJ-thUv0JKUtQ) youtube channel -->
 

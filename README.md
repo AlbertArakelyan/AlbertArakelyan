@@ -43,7 +43,7 @@ This collection is a customized expansion of my [AA-Markdown-Library](https://gi
 
 - **Mentored 3 generations of interns** - many now thriving at leading tech companies worldwide.
 - I actively support newcomers, both in the workplace and through open source, helping them launch their careers and find their confidence.
-- I strive to bring this same spirit to all my projects-welcoming contributors, providing clear guidance, and empowering others to grow and succeed.
+- I strive to bring this same spirit to all my projects - welcoming contributors, providing clear guidance, and empowering others to grow and succeed.
 
 ---
 

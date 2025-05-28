@@ -14,6 +14,14 @@ With 5+ years of professional experience, I specialize in building web applicati
 I have also built lots of examples and projects with best practices, which you can use for building your own projects.
 And I keep building including open source projects and packages which you can use for yourself or in your projects 🙂.
 
+<div align="center">
+  <a href="https://github.com/AlbertArakelyan/AA-Markdown-Library"><img src="https://img.shields.io/badge/MD%20Guides%20&%20Cheatcheets%20created-2-5865F2"></a>
+  <a href="https://www.albertarakelyan.com/resources/books"><img src="https://img.shields.io/badge/Books%20%26%20Cheatsheets%20created-2-orange"></a>
+  <a href="https://github.com/AlbertArakelyan?tab=repositories"><img src="https://img.shields.io/badge/Pet%20projects%20created->30-d6951c"></a>
+  <a href="https://www.npmjs.com/~albertarakelyan"><img src="https://img.shields.io/badge/Open%20source%20packages%20created-8-CD3F3E"></a>
+  <a href="https://www.albertarakelyan.com/blog"><img src="https://img.shields.io/badge/Blogs%20written-2-blue"></a>
+</div>
+
 ---
 
 ## 🚀 Open Source Highlights

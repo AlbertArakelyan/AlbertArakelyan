@@ -46,6 +46,8 @@ This collection is a customized expansion of my [AA-Markdown-Library](https://gi
 - Exclusive PDF resources
 - Helpful for both beginners and advanced devs
 
+I am also planning to have some other [Resources](https://www.albertarakelyan.com/resources) of different types, such as videos, presentations, talks etc.
+
 *Check it out and let me know what new resources you’d like to see!*
 
 ## 🌱 Mentorship & Community Impact

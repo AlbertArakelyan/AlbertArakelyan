@@ -73,7 +73,6 @@ I mostly work **Javascript** and **Typescript**, specifically with **React.js** 
 ![CSS](https://img.shields.io/badge/CSS-1672B6?logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=black)
 ![Typescript](https://img.shields.io/badge/Typecript-007ACC?logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React%20Native-165DAD?logo=react&logoColor=white)
@@ -82,6 +81,17 @@ I mostly work **Javascript** and **Typescript**, specifically with **React.js** 
 ![Recoil](https://img.shields.io/badge/Recoil-3578E5?logo=recoil&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxt&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white)
+
+<!-- ![Vuex](https://img.shields.io/badge/Vuex-4FC08D?logo=vuex&logoColor=white) -->
+<!-- ![Pinia](https://img.shields.io/badge/Pinia-FFDF62?logo=pinia&logoColor=white) -->
+
 
 <!--
 <div>

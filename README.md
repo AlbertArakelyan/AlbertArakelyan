@@ -66,8 +66,18 @@ I am also planning to have some other types of [Resources](https://www.albertara
 
 <!-- - :arrow_forward: Founder and content creator at [IT Motion](https://www.youtube.com/channel/UCFL-9mlMhhnJ-thUv0JKUtQ) youtube channel -->
 
-### 💻 Languages, Frameworks and Libraries :
+### 💻 Tech Stack
+I mostly work **Javascript** and **Typescript**, specifically with **React.js** library. I also work with **Node.js** on backenda littlee bit, also tinkering with **Go** on backend and desktop app development. Familiar with DevOps tools such **Docker** and **CI/CD** (via Github Actions).
 
+![HTML](https://img.shields.io/badge/HTML-e44d26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1672B6?logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=black)
+![Typescript](https://img.shields.io/badge/Typecript-007ACC?logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=black)
+
+<!--
 <div>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -123,6 +133,8 @@ I am also planning to have some other types of [Resources](https://www.albertara
     <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>&nbsp;
   </div>
 </div>
+-->
+
 
 ### 🛠️ Tools :
 <div>

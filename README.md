@@ -183,7 +183,7 @@ I mostly work **Javascript** and **Typescript**, specifically with **React.js** 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-<!--   <img src="https://i0.wp.com/compile.blog/wp-content/uploads/2021/11/web3-icon.png?ssl=1" title="Web 3.0" alt="Web 3.0" width="40" height="40"/>&nbsp; -->
+  <img src="https://i0.wp.com/compile.blog/wp-content/uploads/2021/11/web3-icon.png?ssl=1" title="Web 3.0" alt="Web 3.0" width="40" height="40"/>&nbsp;
   <img src="https://docs.soliditylang.org/en/latest/_images/solidity_logo.svg" title="Solidity" alt="Solidity" width="40" height="40" />
   <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" title="Ethereum" alt="Ethereum" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original.svg" title="Hardhat" alt="Hardhat" width="40" height="40" />

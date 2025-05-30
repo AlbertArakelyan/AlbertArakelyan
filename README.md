@@ -52,7 +52,7 @@ I am also planning to have some other types of [Resources](https://www.albertara
 
 ## 🌱 Mentorship & Community Impact
 
-- **Mentored 3 generations of interns** - many now thriving at leading tech companies worldwide.
+- **Mentored 3 generations of interns** - many now thriving at leading tech companies.
 - I actively support newcomers, both in the workplace and through open source, helping them launch their careers and find their confidence.
 - I strive to bring this same spirit to all my projects - welcoming contributors, providing clear guidance, and empowering others to grow and succeed.
 

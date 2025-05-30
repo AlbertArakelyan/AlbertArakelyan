@@ -73,6 +73,7 @@ I mostly work **Javascript** and **Typescript**, specifically with **React.js** 
 ![CSS](https://img.shields.io/badge/CSS-1672B6?logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=black)
 ![Typescript](https://img.shields.io/badge/Typecript-007ACC?logo=typescript&logoColor=white)
+![Golang](https://img.shields.io/badge/Golang-00ADD8?logo=go&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React%20Native-165DAD?logo=react&logoColor=white)
@@ -88,6 +89,10 @@ I mostly work **Javascript** and **Typescript**, specifically with **React.js** 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?logo=firebase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
 <!-- ![Vuex](https://img.shields.io/badge/Vuex-4FC08D?logo=vuex&logoColor=white) -->
 <!-- ![Pinia](https://img.shields.io/badge/Pinia-FFDF62?logo=pinia&logoColor=white) -->
@@ -151,7 +156,7 @@ I mostly work **Javascript** and **Typescript**, specifically with **React.js** 
 </div>
 -->
 
-
+<!--
 ### 🛠️ Tools :
 <div>
   <div>
@@ -171,7 +176,9 @@ I mostly work **Javascript** and **Typescript**, specifically with **React.js** 
     <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg" title="ssh" alt="ssh" width="40" height="40"/>&nbsp;
   </div>
 </div>
+-->
 
+<!--
 ### 💡 Keen on :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
@@ -183,6 +190,7 @@ I mostly work **Javascript** and **Typescript**, specifically with **React.js** 
   <img src="https://github.com/AlbertArakelyan/AlbertArakelyan/assets/61713118/abc34d7a-a916-4921-b051-257ece8ca755" title="Ethers.js" alt="Ethers.js" width="40" height="40" />
   <img src="https://github.com/AlbertArakelyan/AlbertArakelyan/assets/61713118/89bf84b9-9f97-42cc-bcf9-6489675b9062" title="Alchemy" alt="Alchemy" width="40" height="40" />
 </div>
+-->
 
 <h3>
   <img src="https://github.com/AlbertArakelyan/AlbertArakelyan/assets/61713118/11fc9858-2942-4290-9ce3-34026816882a" alt="Albert Arakelyan">

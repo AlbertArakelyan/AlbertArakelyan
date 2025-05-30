@@ -76,6 +76,12 @@ I mostly work **Javascript** and **Typescript**, specifically with **React.js** 
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React%20Native-165DAD?logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
+![Recoil](https://img.shields.io/badge/Recoil-3578E5?logo=recoil&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxt&logoColor=white)
 
 <!--
 <div>

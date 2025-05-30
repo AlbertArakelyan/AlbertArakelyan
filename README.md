@@ -19,7 +19,7 @@ And I keep building including open source projects and packages which you can us
   <a href="https://www.albertarakelyan.com/resources/books"><img src="https://img.shields.io/badge/Books%20%26%20Cheatsheets%20created-2-orange"></a>
   <a href="https://github.com/AlbertArakelyan?tab=repositories"><img src="https://img.shields.io/badge/Pet%20projects%20created->30-d6951c"></a>
   <a href="https://www.npmjs.com/~albertarakelyan"><img src="https://img.shields.io/badge/Open%20source%20packages%20created-8-CD3F3E"></a>
-  <a href="https://www.albertarakelyan.com/blog"><img src="https://img.shields.io/badge/Blogs%20written-2-blue"></a>
+  <a href="https://www.albertarakelyan.com/blog"><img src="https://img.shields.io/badge/Blogs%20written-3-blue"></a>
   <img src="https://img.shields.io/badge/Interns and Juniors Menthored->20-brightgreen">
 </div>
 
@@ -208,5 +208,4 @@ I mostly work with **Javascript** and **Typescript**, specifically with **React.
 |[How I Learn Effectively: Building Real Needs With New Skills](https://www.albertarakelyan.com/blog/how-i-learn-effectively-building-real-needs-with-new-skills-5)| [5 Challenging Assessments from My Adobe Interview Process](https://www.albertarakelyan.com/blog/5-challenging-assessments-from-my-adobe-interview-process-4)  | [Is There a create-react-app for Node.js? Yes, and Here's How to Use It](https://www.albertarakelyan.com/blog/is-there-a-create-react-app-for-nodejs-3)  | 
 
 ---
-
-<sub>“I believe in building a welcoming and supportive ecosystem for every developer. Whether you’re just starting or a seasoned pro, let’s grow together!”</sub>
+“I believe in building a welcoming and supportive ecosystem for every developer. Whether you’re just starting or a seasoned pro, let’s grow together!”

@@ -67,7 +67,7 @@ I am also planning to have some other types of [Resources](https://www.albertara
 <!-- - :arrow_forward: Founder and content creator at [IT Motion](https://www.youtube.com/channel/UCFL-9mlMhhnJ-thUv0JKUtQ) youtube channel -->
 
 ### 💻 Tech Stack
-I mostly work with **Javascript** and **Typescript**, specifically with **React.js** library. I also work with **Node.js** on backenda littlee bit, also tinkering with **Go** in backend and desktop app development. Familiar with DevOps tools such **Docker** and **CI/CD** (via Github Actions).
+I mostly work with **Javascript** and **Typescript**, specifically with **React.js** library. I also work with **Node.js** on backend little bit, also tinkering with **Go** in backend and desktop app development. Familiar with DevOps tools such **Docker** and **CI/CD** (via Github Actions).
 
 ![HTML](https://img.shields.io/badge/HTML-e44d26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1672B6?logo=css3&logoColor=white)

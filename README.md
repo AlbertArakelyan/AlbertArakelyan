@@ -20,7 +20,7 @@ And I keep building including open source projects and packages which you can us
   <a href="https://github.com/AlbertArakelyan?tab=repositories"><img src="https://img.shields.io/badge/Pet%20projects%20created->30-d6951c"></a>
   <a href="https://www.npmjs.com/~albertarakelyan"><img src="https://img.shields.io/badge/Open%20source%20packages%20created-8-CD3F3E"></a>
   <a href="https://www.albertarakelyan.com/blog"><img src="https://img.shields.io/badge/Blogs%20written-3-blue"></a>
-  <img src="https://img.shields.io/badge/Interns and Juniors Menthored->20-brightgreen">
+  <img src="https://img.shields.io/badge/Interns and Juniors Mentored->20-brightgreen">
 </div>
 
 ---

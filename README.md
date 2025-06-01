@@ -62,7 +62,8 @@ I am also planning to have some other types of [Resources](https://www.albertara
 - 💼 Frontend Developer & Team Lead (5+ years)
 - 🌱 Coach and mentor for junior devs & interns
 - 📚 Forever learning: I read tech articles & build pet projects for fun
-- 🗺️ Building resources for global devs - check [my portfolio](https://www.albertarakelyan.com)
+- 🗺️ Building resources for global devs - check [my portfolio](https://www.albertarakelyan.com/resources)
+- ✍️ I write [tech blogs](https://www.albertarakelyan.com/blog) & share practical tips from my experience to help other developers grow
 
 <!-- - :arrow_forward: Founder and content creator at [IT Motion](https://www.youtube.com/channel/UCFL-9mlMhhnJ-thUv0JKUtQ) youtube channel -->
 

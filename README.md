@@ -25,7 +25,7 @@ And I keep building including open source projects and packages which you can us
 
 ---
 
-## 🚀 Open Source Highlights
+## 🚀 Open Source Highlights ![GitHub User's stars](https://img.shields.io/github/stars/AlbertArakelyan?affiliations=OWNER&style=social)
 
 - **Creator of [AA-Markdown-Library](https://github.com/AlbertArakelyan/AA-Markdown-Library):**  
   A curated, practical resource hub for Markdown guides and developer cheatsheets.

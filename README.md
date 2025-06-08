@@ -203,7 +203,7 @@ I mostly work with **Javascript** and **Typescript**, specifically with **React.
 
 ---
 
-### 📝 My Latest Articles -
+### 📝 My Latest Articles:
 
 | ![](https://server.albertarakelyan.com/storage/blogs/how-i-learn-effectively-building-real-needs-with-new-skills-5.jpg)  | ![](https://server.albertarakelyan.com/storage/blogs/5-challenging-assessments-from-my-adobe-interview-process-4.jpg)  | ![](https://server.albertarakelyan.com/storage/blogs/is-there-a-create-react-app-for-nodejs-3.png) |   
 |---|---|---|

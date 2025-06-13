@@ -54,6 +54,7 @@ I am also planning to have some other types of [Resources](https://www.albertara
 
 - **Mentored 3 generations of interns** - many now thriving at leading tech companies.
 - I actively support newcomers, both in the workplace and through open source, helping them launch their careers and find their confidence.
+- I’m always happy to guide anyone through GitHub, whether you are new and need help getting started, or want to contribute to open source for the first time.
 - I strive to bring this same spirit to all my projects - welcoming contributors, providing clear guidance, and empowering others to grow and succeed.
 
 ---
@@ -210,4 +211,4 @@ I mostly work with **Javascript** and **Typescript**, specifically with **React.
 |[How I Learn Effectively: Building Real Needs With New Skills](https://www.albertarakelyan.com/blog/how-i-learn-effectively-building-real-needs-with-new-skills-5)| [5 Challenging Assessments from My Adobe Interview Process](https://www.albertarakelyan.com/blog/5-challenging-assessments-from-my-adobe-interview-process-4)  | [Is There a create-react-app for Node.js? Yes, and Here's How to Use It](https://www.albertarakelyan.com/blog/is-there-a-create-react-app-for-nodejs-3)  | 
 
 ---
-“I believe in building a welcoming and supportive ecosystem for every developer. Whether you’re just starting or a seasoned pro, let’s grow together!”
+“I believe in building a welcoming and supportive ecosystem for every developer. Whether you’re just starting or a seasoned pro, let’s grow together! If you need help navigating GitHub or want to get involved in open source, I’m always happy to help.”

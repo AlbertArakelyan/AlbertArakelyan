@@ -206,9 +206,9 @@ I mostly work with **Javascript** and **Typescript**, specifically with **React.
 
 ### 📝 My Latest Articles:
 
-| ![](https://server.albertarakelyan.com/storage/blogs/how-i-learn-effectively-building-real-needs-with-new-skills-5.jpg)  | ![](https://server.albertarakelyan.com/storage/blogs/5-challenging-assessments-from-my-adobe-interview-process-4.jpg)  | ![](https://server.albertarakelyan.com/storage/blogs/is-there-a-create-react-app-for-nodejs-3.png) |   
+| ![](https://server.albertarakelyan.com/storage/blogs/gihub-as-cv-6.png) | ![](https://server.albertarakelyan.com/storage/blogs/how-i-learn-effectively-building-real-needs-with-new-skills-5.jpg)  | ![](https://server.albertarakelyan.com/storage/blogs/5-challenging-assessments-from-my-adobe-interview-process-4.jpg)  |
 |---|---|---|
-|[How I Learn Effectively: Building Real Needs With New Skills](https://www.albertarakelyan.com/blog/how-i-learn-effectively-building-real-needs-with-new-skills-5)| [5 Challenging Assessments from My Adobe Interview Process](https://www.albertarakelyan.com/blog/5-challenging-assessments-from-my-adobe-interview-process-4)  | [Is There a create-react-app for Node.js? Yes, and Here's How to Use It](https://www.albertarakelyan.com/blog/is-there-a-create-react-app-for-nodejs-3)  | 
+| [Is There a create-react-app for Node.js? Yes, and Here's How to Use It](https://www.albertarakelyan.com/blog/gihub-as-cv-6)  | [How I Learn Effectively: Building Real Needs With New Skills](https://www.albertarakelyan.com/blog/how-i-learn-effectively-building-real-needs-with-new-skills-5)| [5 Challenging Assessments from My Adobe Interview Process](https://www.albertarakelyan.com/blog/5-challenging-assessments-from-my-adobe-interview-process-4)  | 
 
 ---
 “I believe in building a welcoming and supportive ecosystem for every developer. Whether you’re just starting or a seasoned pro, let’s grow together! If you need help navigating GitHub or want to get involved in open source, I’m always happy to help.”

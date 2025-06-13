@@ -54,7 +54,7 @@ I am also planning to have some other types of [Resources](https://www.albertara
 
 - **Mentored 3 generations of interns** - many now thriving at leading tech companies.
 - I actively support newcomers, both in the workplace and through open source, helping them launch their careers and find their confidence.
-- I’m always happy to guide anyone through GitHub, whether you are new and need help getting started, or want to contribute to open source for the first time.
+- I’m always happy to **guide anyone through GitHub**, whether you are new and need help getting started, or want to contribute to open source for the first time.
 - I strive to bring this same spirit to all my projects - welcoming contributors, providing clear guidance, and empowering others to grow and succeed.
 
 ---

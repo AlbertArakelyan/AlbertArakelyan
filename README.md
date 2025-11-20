@@ -1,6 +1,6 @@
 [![Nodex Labs](./assets/images/nodex-labs-banner.png)](https://github.com/nodex-labs)
 
-### 👋 Hi, I’m Albert Arakelyan - Passionate Frontend Developer, Mentor, and Open Source Advocate
+### 👋 Hi, I’m Albert Arakelyan - Passionate Software Engineer, Mentor, and Open Source Advocate
 
 <p align="center">
   <a href="mailto:albertarakelyan1998@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>

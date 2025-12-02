@@ -27,11 +27,10 @@ And I keep building including open source projects and packages which you can us
 
 ## 🚀 Open Source Highlights ![Albert's stars](https://img.shields.io/github/stars/AlbertArakelyan?affiliations=OWNER&style=social)
 
-- **Creator of [AA-Markdown-Library](https://github.com/AlbertArakelyan/AA-Markdown-Library):**  
-  A curated, practical resource hub for Markdown guides and developer cheatsheets.
 - **Contributor to various projects:**  
     - Sharing best practices, code examples, and helping maintain healthy, collaborative repositories.
     - Creating packages for everyone which solved the problems I faced with at my work.
+    - Creating small open source pet projects based on my needs, which can be useful for others or be a good start point for another great project.
 <!--
 - **Champion for “good first issue” and “help wanted” labels:**  
   Making my repos accessible for beginners and encouraging new contributors.
@@ -40,7 +39,6 @@ And I keep building including open source projects and packages which you can us
 ## 📚 Open Source Books & Resources
 
 I maintain a [Books page](https://www.albertarakelyan.com/resources/books) on my website, featuring free PDF content and guides for developers.  
-This collection is a customized expansion of my [AA-Markdown-Library](https://github.com/AlbertArakelyan/AA-Markdown-Library), offering additional curated materials.
 
 - Practical guides & cheat sheets
 - Exclusive PDF resources

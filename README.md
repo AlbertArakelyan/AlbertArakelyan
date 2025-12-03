@@ -59,6 +59,7 @@ I am also planning to have some other types of [Resources](https://www.albertara
 
 ### 👨‍💻 About me:
 - 💼 Frontend Developer & Team Lead (5+ years)
+- 🛠️ 5+ years of experience working with production code
 - 🌱 Coach and mentor for junior devs & interns
 - 📚 Forever learning: I read tech articles and build pet projects for fun and sharing with everyone
 - 🗺️ Building resources for global devs - check [my portfolio](https://www.albertarakelyan.com/resources)

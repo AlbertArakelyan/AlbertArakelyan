@@ -83,6 +83,7 @@ I mostly work with **Javascript** and **Typescript**, specifically with **React.
 ![Recoil](https://img.shields.io/badge/Recoil-3578E5?logo=recoil&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxt&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-FFD859?logo=pinia&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
@@ -96,7 +97,7 @@ I mostly work with **Javascript** and **Typescript**, specifically with **React.
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?logo=firebase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
-<!-- ![Vuex](https://img.shields.io/badge/Vuex-4FC08D?logo=vuex&logoColor=white) -->
+<!-- ![Vuex](https://img.shields.io/badge/Vuex-4FC08D?logo=vuex&logoColor=white)
 <!-- ![Pinia](https://img.shields.io/badge/Pinia-FFDF62?logo=pinia&logoColor=white) -->
 
 

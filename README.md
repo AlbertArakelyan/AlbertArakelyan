@@ -99,8 +99,9 @@ I mostly work with **Javascript** and **Typescript**, specifically with **React.
 ![Firebase](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
 <!-- ![Vuex](https://img.shields.io/badge/Vuex-4FC08D?logo=vuex&logoColor=white)
-<!-- ![Pinia](https://img.shields.io/badge/Pinia-FFDF62?logo=pinia&logoColor=white) -->
 
+<!-- Custom badges (without logos) that don't exist on simple icons -->
+<!-- ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?logo=amazons3&logoColor=white) -->
 
 <!--
 <div>

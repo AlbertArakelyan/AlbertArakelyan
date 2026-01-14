@@ -52,6 +52,8 @@ And I keep building including open source projects and packages which you can us
   <img src="https://img.shields.io/badge/Interns and Juniors Mentored->20-brightgreen">
 </div>
 
+<!-- "Current Projects" section -->
+
 ## Connect
 
 <p>

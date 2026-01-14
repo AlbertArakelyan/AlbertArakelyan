@@ -2,7 +2,8 @@
 [![Nodex Labs](./assets/images/nodex-labs-banner.png)](https://github.com/nodex-labs)
 -->
 
-### 👋 Hi, I’m Albert Arakelyan - Passionate Software Engineer, Mentor, and Open Source Advocate
+## 👋 Hi, I’m Albert
+**Passionate Software Engineer | Mentor | Open Source Advocate**
 
 ![HTML](https://img.shields.io/badge/HTML-e44d26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1672B6?logo=css3&logoColor=white)
@@ -42,7 +43,7 @@ With 5+ years of professional experience, I specialize in building web applicati
 I have also built lots of examples and projects with best practices, which you can use for building your own projects.
 And I keep building including open source projects and packages which you can use for yourself or in your projects 🙂.
 
-<div align="center">
+<div>
   <!-- <a href="https://github.com/AlbertArakelyan/AA-Markdown-Library"><img src="https://img.shields.io/badge/MD%20Guides%20&%20Cheatcheets%20created-2-5865F2"></a> -->
   <a href="https://www.albertarakelyan.com/resources/books"><img src="https://img.shields.io/badge/Books%20%26%20Cheatsheets%20created-2-orange"></a>
   <a href="https://github.com/AlbertArakelyan?tab=repositories"><img src="https://img.shields.io/badge/Pet%20projects%20created->30-d6951c"></a>
@@ -50,6 +51,21 @@ And I keep building including open source projects and packages which you can us
   <a href="https://www.albertarakelyan.com/blog"><img src="https://img.shields.io/badge/Blogs%20written-4-blue"></a>
   <img src="https://img.shields.io/badge/Interns and Juniors Mentored->20-brightgreen">
 </div>
+
+## Connect
+
+<p>
+  <a href="mailto:albertarakelyan1998@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://www.linkedin.com/in/albert-arakelyan/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
+  <a href="https://x.com/AlbertArak25"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"></a>
+</p>
+
+<h3>
+  <img src="https://github.com/AlbertArakelyan/AlbertArakelyan/assets/61713118/11fc9858-2942-4290-9ce3-34026816882a" alt="Albert Arakelyan">
+  <span style="vertical-align: center">My Portfolio Website:</span>
+</h4>
+
+[https://www.albertarakelyan.com](https://www.albertarakelyan.com)
 
 ---
 
@@ -85,23 +101,6 @@ And I keep building including open source projects and packages which you can us
     </td>
   </tr>
 </table>
-
----
-
-## Connect
-
-<p>
-  <a href="mailto:albertarakelyan1998@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://www.linkedin.com/in/albert-arakelyan/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
-  <a href="https://x.com/AlbertArak25"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"></a>
-</p>
-
-<h3>
-  <img src="https://github.com/AlbertArakelyan/AlbertArakelyan/assets/61713118/11fc9858-2942-4290-9ce3-34026816882a" alt="Albert Arakelyan">
-  <span style="vertical-align: center">My Portfolio Website:</span>
-</h4>
-
-[https://www.albertarakelyan.com](https://www.albertarakelyan.com)
 
 ---
 

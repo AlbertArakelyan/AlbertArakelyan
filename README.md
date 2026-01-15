@@ -37,11 +37,9 @@
 <!-- Custom badges (without logos) that don't exist on simple icons -->
 <!-- ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?logo=amazons3&logoColor=white) -->
 
-I’m driven by a love for technology, sharing knowledge, and empowering the next generation of developers.  
-With 5+ years of professional experience, I specialize in building web applications using JavaScript and its frameworks, always focusing on best practices, accessibility, and developer experience.
+I focus on building high-quality software and sharing practical knowledge to help developers grow. With 5+ years of professional experience, I design and develop web applications using JavaScript and its ecosystem, emphasizing scalable architecture, accessibility, best practices, and developer experience.
 
-I have also built lots of examples and projects with best practices, which you can use for building your own projects.
-And I keep building including open source projects and packages which you can use for yourself or in your projects 🙂.
+I consistently build well-structured pet projects that serve as production-ready templates and reference implementations. In addition, I create and maintain open-source packages and projects that address real problems encountered in professional environments, making them reusable and valuable for broader teams and communities.
 
 <div>
   <!-- <a href="https://github.com/AlbertArakelyan/AA-Markdown-Library"><img src="https://img.shields.io/badge/MD%20Guides%20&%20Cheatcheets%20created-2-5865F2"></a> -->

@@ -48,6 +48,7 @@ I consistently build well-structured pet projects that serve as production-ready
   <a href="https://www.npmjs.com/~albertarakelyan"><img src="https://img.shields.io/badge/Open%20source%20packages%20created-8-CD3F3E"></a>
   <a href="https://www.albertarakelyan.com/blog"><img src="https://img.shields.io/badge/Blogs%20written-4-blue"></a>
   <img src="https://img.shields.io/badge/Interns and Juniors Mentored->20-brightgreen">
+  <img src="https://img.shields.io/github/stars/AlbertArakelyan?affiliations=OWNER&style=social">
 </div>
 
 <!-- "Current Projects" section -->

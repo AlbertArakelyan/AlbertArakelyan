@@ -31,7 +31,7 @@
 ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
 ![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?logo=firebase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
 <!-- ![Vuex](https://img.shields.io/badge/Vuex-4FC08D?logo=vuex&logoColor=white)
 <!-- Custom badges (without logos) that don't exist on simple icons -->

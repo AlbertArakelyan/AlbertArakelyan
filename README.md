@@ -7,7 +7,7 @@
 
 ![HTML](https://img.shields.io/badge/HTML-e44d26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1672B6?logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=black)
+![Javascript](https://img.shields.io/badge/Javascript-111111?logo=javascript&logoColor=#F7DF1E)
 ![Typescript](https://img.shields.io/badge/Typecript-007ACC?logo=typescript&logoColor=white)
 ![Golang](https://img.shields.io/badge/Golang-00ADD8?logo=go&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)
@@ -18,7 +18,7 @@
 ![Recoil](https://img.shields.io/badge/Recoil-3578E5?logo=recoil&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxt&logoColor=white)
-![Pinia](https://img.shields.io/badge/Pinia-FFD859?logo=pinia&logoColor=black)
+![Pinia](https://img.shields.io/badge/Pinia-111111?logo=pinia&logoColor=#FFD859)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)

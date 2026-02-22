@@ -6,7 +6,7 @@
 **Passionate Software Engineer | Becomming Expert in Context Engineering | Open Source Advocate | Mentor**
 
 ![HTML](https://img.shields.io/badge/HTML-e44d26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1672B6?logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-663399?logo=css&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-111111?logo=javascript&logoColor=#F7DF1E)
 ![Typescript](https://img.shields.io/badge/Typecript-007ACC?logo=typescript&logoColor=white)
 ![Golang](https://img.shields.io/badge/Golang-00ADD8?logo=go&logoColor=white)

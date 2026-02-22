@@ -3,7 +3,7 @@
 -->
 
 ## 👋 Hi, I’m Albert
-**Passionate Software Engineer | Mentor | Open Source Advocate**
+**Passionate Software Engineer | Becomming Expert in Context Engineering | Open Source Advocate | Mentor**
 
 ![HTML](https://img.shields.io/badge/HTML-e44d26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1672B6?logo=css3&logoColor=white)

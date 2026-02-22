@@ -32,7 +32,8 @@
 ![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?logo=firebase&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-![Caude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white)
+![Caude](https://img.shields.io/badge/Claude%20Code-D97757?logo=claude&logoColor=white)
+![Github Copilot](https://img.shields.io/badge/Github%20Copilot-000000?logo=githubcopilot&logoColor=white)
 
 <!-- ![Golang](https://img.shields.io/badge/Golang-00ADD8?logo=go&logoColor=white) -->
 <!-- ![Vuex](https://img.shields.io/badge/Vuex-4FC08D?logo=vuex&logoColor=white)

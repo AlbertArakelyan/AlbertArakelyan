@@ -9,7 +9,7 @@
 ![CSS](https://img.shields.io/badge/CSS-663399?logo=css&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-111111?logo=javascript&logoColor=#F7DF1E)
 ![Typescript](https://img.shields.io/badge/Typecript-007ACC?logo=typescript&logoColor=white)
-![Golang](https://img.shields.io/badge/Golang-00ADD8?logo=go&logoColor=white)
+![C# / .NET](https://img.shields.io/badge/C%23%2F%20.NET-512BD4?logo=dotnet&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React%20Native-165DAD?logo=react&logoColor=white)
@@ -34,6 +34,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 ![Caude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white)
 
+<!-- ![Golang](https://img.shields.io/badge/Golang-00ADD8?logo=go&logoColor=white) -->
 <!-- ![Vuex](https://img.shields.io/badge/Vuex-4FC08D?logo=vuex&logoColor=white)
 <!-- Custom badges (without logos) that don't exist on simple icons -->
 <!-- ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?logo=amazons3&logoColor=white) -->

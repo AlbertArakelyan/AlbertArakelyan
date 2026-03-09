@@ -5,11 +5,11 @@
 ## 👋 Hi, I’m Albert
 **Passionate Software Engineer | Becomming Expert in AI/Context Engineering | Open Source Advocate | Mentor**
 
-![HTML](https://img.shields.io/badge/HTML-e44d26?logo=html5&logoColor=white&style=flat-square)
-![CSS](https://img.shields.io/badge/CSS-663399?logo=css&logoColor=white&style=flat-square)
 ![Javascript](https://img.shields.io/badge/Javascript-111111?logo=javascript&style=flat-square&logoColor=#F7DF1E)
 ![Typescript](https://img.shields.io/badge/Typecript-007ACC?logo=typescript&logoColor=white&style=flat-square)
 ![C# / .NET](https://img.shields.io/badge/C%23%2F%20.NET-512BD4?logo=dotnet&logoColor=white&style=flat-square)
+![HTML](https://img.shields.io/badge/HTML-e44d26?logo=html5&logoColor=white&style=flat-square)
+![CSS](https://img.shields.io/badge/CSS-663399?logo=css&logoColor=white&style=flat-square)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=flat-square)
 ![React.js](https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=black&style=flat-square)
 ![React Native](https://img.shields.io/badge/React%20Native-165DAD?logo=react&logoColor=white&style=flat-square)

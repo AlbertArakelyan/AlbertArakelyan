@@ -105,7 +105,3 @@ I consistently build well-structured pet projects that serve as production-ready
     </td>
   </tr>
 </table>
-
----
-
-“I believe in building a welcoming and supportive ecosystem for every developer. Whether you’re just starting or a seasoned pro, let’s grow together! If you need help navigating GitHub or want to get involved in open source, I’m always happy to help.”

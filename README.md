@@ -64,10 +64,7 @@ I consistently build well-structured pet projects that serve as production-ready
   <a href="https://x.com/AlbertArak25"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"></a>
 </p>
 
-<h3>
-  <img src="https://github.com/AlbertArakelyan/AlbertArakelyan/assets/61713118/11fc9858-2942-4290-9ce3-34026816882a" alt="Albert Arakelyan">
-  <span style="vertical-align: center">My Portfolio Website:</span>
-</h4>
+### <img src="https://github.com/AlbertArakelyan/AlbertArakelyan/assets/61713118/11fc9858-2942-4290-9ce3-34026816882a" height="32" alt="Albert Arakelyan"> My Portfolio Website:
 
 [https://www.albertarakelyan.com](https://www.albertarakelyan.com)
 

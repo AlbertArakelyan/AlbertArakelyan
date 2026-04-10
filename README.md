@@ -55,6 +55,11 @@ I consistently build well-structured pet projects that serve as production-ready
 </div>
 
 <!-- "Current Projects" section -->
+## Current Projects
+
+- <img height="12" src="https://github.com/AlbertArakelyan/Lumark/raw/main/public/lumark-logoOnly-original.png"> [**Lumark**](https://github.com/AlbertArakelyan/Lumark) - A fast, local-first Markdown note-taking app that works fully offline
+- <img height="12" src="https://raw.githubusercontent.com/AlbertArakelyan/Thockify/17ff79bb603ba5697a5e7d069885d592468cbb30/public/logo.svg"> [**Thockify**](https://github.com/AlbertArakelyan/Thockify) - A lightweight desktop application that plays mechanical keyboard sounds as you type
+- [**Parshn**](http://parshn.com/) (closed source) - Your vocabulary, parsed and remembered
 
 ## Connect
 

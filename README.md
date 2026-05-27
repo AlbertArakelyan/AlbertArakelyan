@@ -46,7 +46,7 @@ I consistently build well-structured pet projects that serve as production-ready
 
 <div>
   <!-- <a href="https://github.com/AlbertArakelyan/AA-Markdown-Library"><img src="https://img.shields.io/badge/MD%20Guides%20&%20Cheatcheets%20created-2-5865F2"></a> -->
-  <a href="https://www.albertarakelyan.com/resources/books"><img src="https://img.shields.io/badge/Books%20%26%20Cheatsheets%20created-2-orange"></a>
+  <!-- <a href="https://www.albertarakelyan.com/resources/books"><img src="https://img.shields.io/badge/Books%20%26%20Cheatsheets%20created-2-orange"></a> -->
   <a href="https://github.com/AlbertArakelyan?tab=repositories"><img src="https://img.shields.io/badge/Pet%20projects%20created->30-d6951c"></a>
   <a href="https://www.npmjs.com/~albertarakelyan"><img src="https://img.shields.io/badge/Open%20source%20packages%20created-8-CD3F3E"></a>
   <a href="https://www.albertarakelyan.com/blog"><img src="https://img.shields.io/badge/Blogs%20written-4-blue"></a>

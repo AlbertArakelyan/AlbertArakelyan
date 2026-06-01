@@ -40,7 +40,7 @@
 <!-- Custom badges (without logos) that don't exist on simple icons -->
 <!-- ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?logo=amazons3&logoColor=white) -->
 
-I focus on building high-quality software and sharing practical knowledge to help developers grow. With 5+ years of professional experience, I design and develop web applications using JavaScript and its ecosystem, emphasizing scalable architecture, accessibility, best practices, and developer experience.
+I focus on building high-quality software and sharing practical knowledge to help developers grow. With **7+** years of professional experience, I design and develop web applications using JavaScript and its ecosystem, emphasizing scalable architecture, accessibility, best practices, and developer experience.
 
 I consistently build well-structured pet projects that serve as production-ready templates and reference implementations. In addition, I create and maintain open-source packages and projects that address real problems encountered in professional environments, making them reusable and valuable for broader teams and communities.
 

@@ -3,7 +3,7 @@
 -->
 
 ## 👋 Hi, I’m Albert
-**Passionate Software Engineer | Becomming Expert in AI/Context Engineering | Open Source Advocate | Mentor**
+**Passionate Software Engineer | Expert in AI/Context Engineering | Open Source Advocate | Mentor**
 
 ![Javascript](https://img.shields.io/badge/Javascript-111111?logo=javascript&style=flat-square&logoColor=#F7DF1E)
 ![Typescript](https://img.shields.io/badge/Typecript-007ACC?logo=typescript&logoColor=white&style=flat-square)

@@ -73,6 +73,8 @@ I consistently build well-structured pet projects that serve as production-ready
 
 [https://www.albertarakelyan.com](https://www.albertarakelyan.com)
 
+<!--
+
 ---
 
 ### 📝 My Latest Articles:
@@ -107,3 +109,4 @@ I consistently build well-structured pet projects that serve as production-ready
     </td>
   </tr>
 </table>
+-->

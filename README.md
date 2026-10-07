@@ -57,6 +57,8 @@ I consistently build well-structured pet projects that serve as production-ready
 <!-- "Current Projects" section -->
 ## Current Projects
 
+Open source projects I am currently maintaining.
+
 - <img height="12" src="https://github.com/AlbertArakelyan/Lumark/raw/main/public/lumark-logoOnly-original.png"> [**Lumark**](https://github.com/AlbertArakelyan/Lumark) - A fast, local-first Markdown note-taking app that works fully offline
 
 #### Archived projects

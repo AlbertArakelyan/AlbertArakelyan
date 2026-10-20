@@ -58,8 +58,9 @@ I consistently build well-structured pet projects that serve as production-ready
 ## Current Projects
 
 - <img height="12" src="https://github.com/AlbertArakelyan/Lumark/raw/main/public/lumark-logoOnly-original.png"> [**Lumark**](https://github.com/AlbertArakelyan/Lumark) - A fast, local-first Markdown note-taking app that works fully offline
+- <img height="12" alt="vocabping_logo_1024_square" src="https://github.com/user-attachments/assets/0fea2070-cf05-458e-aff5-0304d784511f" /> [**VocabPing**](https://vocabping.com/) (closed source) - Your vocabulary, gently repeated while you focus on your work
 
-<!-- - <img height="12" src="https://avatars.githubusercontent.com/u/273161047?s=200&v=4"> [**Parshn**](http://parshn.com/) (closed source) - Your vocabulary, gently repeated while you focus on your work -->
+
 
 
 ## Connect

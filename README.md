@@ -2,7 +2,7 @@
 [![Nodex Labs](./assets/images/nodex-labs-banner.png)](https://github.com/nodex-labs)
 -->
 
-## 👋 Hi, I’m Albert
+## 👋 Hi, I’m Albert. Obsessed with Tech and AI.
 **Passionate Software Engineer | Expert in AI/Context Engineering | Product Engineer | Open Source Advocate | Mentor**
 
 ![Javascript](https://img.shields.io/badge/Javascript-111111?logo=javascript&style=flat-square&logoColor=#F7DF1E)
